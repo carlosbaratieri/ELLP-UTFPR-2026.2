@@ -1,2 +1,6 @@
-# ELLP-UTFPR-2026.2
-Repositório dedicado à disciplina de Desenvolvimento de Jogos, com foco no desenvolvimento de um projeto de extensão da UTFPR-CP voltado ao ensino lúdico de lógica de programação.
+<p align="center">
+  <img src="assets/ellpinho_v2.png" alt="ELLPinho" width="300" />
+</p>
+
+<h1 align="center">Ensino Lúdico de Lógica e Programação</h1>
+

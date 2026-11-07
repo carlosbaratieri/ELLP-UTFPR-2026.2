@@ -4,7 +4,7 @@
 
 ### 1.1 O que é programação?
 
-Programação é o processo de criar instruções para que um computador execute determinadas tarefas. Essas instruções são escritas utilizando linguagens de programação e permitem desenvolver programas, jogos, aplicativos e diversos outros sistemas.
+Programação é o processo de criar instruções para que um computador execute determinadas tarefas. Essas instruções são escritas utilizando linguagens de programação.
 
 ### 1.2 O que é Python?
 
@@ -24,7 +24,7 @@ print("Olá, mundo!")
 
 ### 2.1 O que são variáveis?
 
-Variáveis são espaços utilizados para armazenar informações na memória do computador. Cada variável possui um nome e pode guardar diferentes valores, como números, textos e valores booleanos.
+Variáveis são espaços utilizados para armazenar informações na memória do computador. Cada variável possui um nome e pode guardar diferentes valores, como números, textos e valores booleanos (Verdadeiro ou Falso).
 
 ### 2.2 Atribuição de valores
 

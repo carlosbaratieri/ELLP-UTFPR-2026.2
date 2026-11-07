@@ -4,6 +4,13 @@
 
 1. Faça um programa que leia um número inteiro e o imprima.
 
+```python
+numero = int(input("Digite um número inteiro: "))
+
+print("Número digitado:", numero)
+```
+
+
 2. Faça um programa que leia um número real e o imprima.
 
 3. Peça ao usuário para digitar três valores inteiros e imprima a soma deles.
@@ -17,6 +24,19 @@
 ## Lote 2 — Estruturas condicionais
 
 1. Faça um programa que receba dois números e mostre qual deles é o maior.
+
+```python
+numero1 = float(input("Digite o primeiro número: "))
+numero2 = float(input("Digite o segundo número: "))
+
+if numero1 > numero2:
+    print("O maior número é:", numero1)
+elif numero2 > numero1:
+    print("O maior número é:", numero2)
+else:
+    print("Os números são iguais")
+```
+
 
 2. Leia um número fornecido pelo usuário. Se esse número for positivo, calcule a raiz quadrada do número. Se o número for negativo, mostre uma mensagem dizendo que o número é inválido.
 

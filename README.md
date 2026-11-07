@@ -8,5 +8,6 @@
 > O foco deste repositório é o armazenamento de materiais didáticos e listas de exercícios sobre lógica de programação para adolescentes a partir dos 12 anos. O objetivo é fornecer uma base de conhecimento para outras áreas, como desenvolvimento de jogos, desenvolvimento web e cursos relacionados à eletrônica.
 
 > [!NOTE]
-> Ao mandar um e-mail, envie por meio da conta dos pais ou, caso seja a sua própria, sempre peça autorização! 
+> Ao mandar um e-mail, envie por meio da conta dos pais ou, caso seja a sua própria, sempre peça autorização!
+> 
 > Dúvidas: [carlosbaratieri@gmail.com](mailto:carlosbaratieri@gmail.com)
